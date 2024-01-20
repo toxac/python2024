@@ -10,5 +10,3 @@ def binaryConverter (num: int) -> list:
     
     return output
 
-
-print(binaryConverter(591))
